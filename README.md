@@ -5,7 +5,9 @@ I’m interested in exploring the intersection of data analytics and organizatio
 I’m currently learning Python, SQL, and Machine Learning through an Analytics Boot Camp. I'm also enhancing my skills in Tableau, PowerBI, and Excel. 
 <br>
 <br>
-Feel free to connect with my on [LinkedIn](https://www.linkedin.com/in/ejjohnsonii/) or [email Me](mailto:eric.j.johnson2.com)
+Feel free to connect with my on [LinkedIn](https://www.linkedin.com/in/ejjohnsonii/) or [email Me](mailto:eric.j.johnson2.com). 
+Here is a link to my [resume](https://docs.google.com/document/d/19ODZwmcRodCUYVRMcrGqgp1qTOsmynyf/edit). 
+
 
 
 <!---
