@@ -2,7 +2,7 @@
 <br>
 <br>
 I’m interested in exploring the intersection of data analytics and organizational strategy for decision-making and process improvements. I'm passionate about using data visualization and machine learning to help solve real-world challenges. 
-Skills in Excel, Python, SQL, Tableau, and Power BI.  
+Skilled in Excel, Python, SQL, Tableau, and Power BI.  
 <br>
 <br>
 Feel free to connect with my on [LinkedIn](https://www.linkedin.com/in/ejjohnsonii/) or [email Me](mailto:eric.j.johnson2.com). 
