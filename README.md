@@ -6,7 +6,7 @@ Skilled in Excel, Python, SQL, Tableau, and Power BI.
 <br>
 <br>
 Feel free to connect with my on [LinkedIn](https://www.linkedin.com/in/ejjohnsonii/) or [email Me](mailto:eric.j.johnson2.com). 
-Here is a link to my [resume](https://docs.google.com/document/d/19ODZwmcRodCUYVRMcrGqgp1qTOsmynyf/edit). 
+
 
 
 
